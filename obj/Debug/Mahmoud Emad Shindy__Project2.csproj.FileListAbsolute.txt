@@ -1,0 +1,8 @@
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\obj\Debug\Mahmoud Emad Shindy__Project2.csproj.AssemblyReference.cache
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\obj\Debug\Mahmoud Emad Shindy__Project2.csproj.SuggestedBindingRedirects.cache
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\obj\Debug\Mahmoud Emad Shindy__Project2.csproj.CoreCompileInputs.cache
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\bin\Debug\Mahmoud Emad Shindy__Project2.exe.config
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\bin\Debug\Mahmoud Emad Shindy__Project2.exe
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\bin\Debug\Mahmoud Emad Shindy__Project2.pdb
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\obj\Debug\Mahmoud Emad Shindy__Project2.exe
+D:\مشروع د.سمير\Mahmoud Emad Shindy__Project2\Mahmoud Emad Shindy__Project2\obj\Debug\Mahmoud Emad Shindy__Project2.pdb
